@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PertolonganModelStoreContainer" CdmEntityContainer="PertolonganEntities">
+    <EntitySetMapping Name="TablePertolongans">
+      <EntityTypeMapping TypeName="PertolonganModel.TablePertolongan">
+        <MappingFragment StoreEntitySet="TablePertolongan">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Kasus" ColumnName="Kasus" />
+          <ScalarProperty Name="Penanganan" ColumnName="Penanganan" />
+          <ScalarProperty Name="Gejala" ColumnName="Gejala" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
