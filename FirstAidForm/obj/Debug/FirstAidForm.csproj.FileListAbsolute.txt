@@ -22,3 +22,7 @@ C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm
 C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm.exe
 C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm.pdb
 C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm.csprojAssemblyReference.cache
+C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\bin\Debug\FirstAidForm.exe.manifest
+C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\bin\Debug\FirstAidForm.application
+C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm.exe.manifest
+C:\Users\dickymuhr\source\repos\FirstAidForm\FirstAidForm\obj\Debug\FirstAidForm.application

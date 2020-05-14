@@ -1,0 +1,1 @@
+ada 3 metode deploy, publish(folder publish), exe copy (release.exe), dan setup(coba run as administrator)
